@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arqam zakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arqam zakir" height="30" width="40" /></a>
-<a href="https://instagram.com/zakiarqam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zakiarqam" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/arqam zakir](https://www.linkedin.com/in/arqam-zakir-627181248/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arqam zakir" height="30" width="40" /></a>
+<a href="[https://instagram.com/zakiarqam" target="blank](https://www.instagram.com/zaki_arqam?igsh=MXN0NnQ3dXRmNTEwdw%3D%3D&utm_source=qr)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zakiarqam" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@zakiarkam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@zakiarkam" height="30" width="40" /></a>
 </p>
 
