@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Arqam Zakir</h1>
-<h3 align="center">Undergraduate at University of Moratuwa</h3>
+<h3 align="center">3rd Year Undergraduate at University of Moratuwa</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakiarkam&label=Profile%20views&color=0e75b6&style=flat" alt="zakiarkam" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **TransitGO**
+- 🔭 I’m currently working on **eCop**
 
 - 📫 How to reach me **zakiarkam@gmail.com**
 
