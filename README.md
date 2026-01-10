@@ -6,10 +6,9 @@
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2D9BF7&center=true&vCenter=true&width=435&lines=Software+Engineer+Intern)
   
-  **🎓 3rd Year ITM Undergraduate.**  
+  **🎓 4Th Year ITM Undergraduate.**  
   **🏛️ University of Moratuwa, Sri Lanka.**
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=zakiarkam&label=Profile%20Views&color=2d9bf7&style=flat-square)](https://github.com/zakiarkam)
   
 </div>
 
